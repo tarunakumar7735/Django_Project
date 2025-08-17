@@ -1,4 +1,6 @@
 # Django_Project
+
+
 pip install widget_tweaks
 
 python manage.py makemigrations
@@ -35,8 +37,8 @@ This project includes user authentication, product catalog, shopping cart, order
 ## 🏗️ Tech Stack
 - **Backend**: Django, Python  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Database**: SQLite (can be changed to PostgreSQL/MySQL)  
-- **Deployment**: GitHub / Heroku / AWS  
+- **Database**: SQLite (can be changed to MySQL)  
+- **Deployment**: GitHub
 
 ---
 
